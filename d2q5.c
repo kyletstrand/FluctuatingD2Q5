@@ -3,7 +3,7 @@
 /*                      Diffusive System                        */
 /*            Kyle Strand:  kyle.t.strand@ndsu.edu              */
 /*               North Dakota State University                  */
-/*                     6 February 2016                          */
+/*                     24 June 2016                          */
 /****************************************************************/
 
 /* New lattice Boltzmann algorithm for fluctuating diffusion.
